@@ -12,17 +12,7 @@ Acredito que o melhor jeito de aprender é aplicando na prática. Por isso, foco
 
 💡 Buscando aplicar para a área de desenvolvimento para resolver problemas reais de mercado.
 
-   <p align="left"> 
-    <a href="https://github.com/pzgfps">
-         <img 
-         alt="followers" 
-         title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/pzgfps?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-         </a>
-    <a href="https://github.com/pzgfps?tab=repositories&sort=stargazers">
-         <img alt="total stars" 
-         title="Total de estrelas" 
-         src="https://custom-icon-badges.demolab.com/github/stars/pzgfps?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+  <a href = "mailto:pzg.ogasawara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pedro-zagato-java/"
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
